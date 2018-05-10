@@ -8,3 +8,13 @@
 /Users/asadar/Desktop/Adventure/obj/Debug/netcoreapp2.0/Adventure.AssemblyInfo.cs
 /Users/asadar/Desktop/Adventure/obj/Debug/netcoreapp2.0/Adventure.dll
 /Users/asadar/Desktop/Adventure/obj/Debug/netcoreapp2.0/Adventure.pdb
+/Users/asadar/Desktop/C-TextAdventure/Adventure/bin/Debug/netcoreapp2.0/Adventure.deps.json
+/Users/asadar/Desktop/C-TextAdventure/Adventure/bin/Debug/netcoreapp2.0/Adventure.runtimeconfig.json
+/Users/asadar/Desktop/C-TextAdventure/Adventure/bin/Debug/netcoreapp2.0/Adventure.runtimeconfig.dev.json
+/Users/asadar/Desktop/C-TextAdventure/Adventure/bin/Debug/netcoreapp2.0/Adventure.dll
+/Users/asadar/Desktop/C-TextAdventure/Adventure/bin/Debug/netcoreapp2.0/Adventure.pdb
+/Users/asadar/Desktop/C-TextAdventure/Adventure/obj/Debug/netcoreapp2.0/Adventure.csproj.CoreCompileInputs.cache
+/Users/asadar/Desktop/C-TextAdventure/Adventure/obj/Debug/netcoreapp2.0/Adventure.AssemblyInfoInputs.cache
+/Users/asadar/Desktop/C-TextAdventure/Adventure/obj/Debug/netcoreapp2.0/Adventure.AssemblyInfo.cs
+/Users/asadar/Desktop/C-TextAdventure/Adventure/obj/Debug/netcoreapp2.0/Adventure.dll
+/Users/asadar/Desktop/C-TextAdventure/Adventure/obj/Debug/netcoreapp2.0/Adventure.pdb

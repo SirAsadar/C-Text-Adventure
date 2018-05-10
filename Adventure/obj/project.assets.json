@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/asadar/Desktop/Adventure/Adventure.csproj",
+      "projectUniqueName": "/Users/asadar/Desktop/C-TextAdventure/Adventure/Adventure.csproj",
       "projectName": "Adventure",
-      "projectPath": "/Users/asadar/Desktop/Adventure/Adventure.csproj",
+      "projectPath": "/Users/asadar/Desktop/C-TextAdventure/Adventure/Adventure.csproj",
       "packagesPath": "/Users/asadar/.nuget/packages/",
-      "outputPath": "/Users/asadar/Desktop/Adventure/obj/",
+      "outputPath": "/Users/asadar/Desktop/C-TextAdventure/Adventure/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
