@@ -1,9 +1,6 @@
 ﻿using System;
-
-namespace Adventure
-{
-    class Program
-    {
+namespace Adventure{
+    class Program{
         static void Main()
         {
             Game.StartGame();
