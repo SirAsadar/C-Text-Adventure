@@ -16,9 +16,11 @@ namespace Adventure{
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine(title);
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("\nWelcome to the world of Eorza! A land full of discovery and turmoil. You're stranded in the woods miles from any sort of civilization and all you have are the supplies in your pack. Survive. Good luck.");
+            Console.WriteLine("\nWelcome to the world of Eorza! A land full of discovery and turmoil. ");
             Console.ResetColor();
             NameCharacter();
+            Choice();
+            EndGame();
             }
         public static void NameCharacter(){
             Console.ForegroundColor = ConsoleColor.Magenta;
@@ -45,6 +47,22 @@ namespace Adventure{
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.Write(message);
             Console.ResetColor();
+        }
+        static void Choice(){
+            string input = "";
+            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.WriteLine("Which will you choose? A or B?");
+            Console.ResetColor();
+            input = Console.ReadLine();
+            input = input.ToUpper();
+            if(input == "A"){
+                Console.WriteLine("You've chosen path A!");
+            } else{
+                Console.WriteLine("You've chosen path B!");
+            }
+        }
+        static void EndGame(){
+
         }
     }
 }
