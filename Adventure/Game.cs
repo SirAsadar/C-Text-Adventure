@@ -26,6 +26,9 @@ namespace Adventure{
             Console.ResetColor();
             characterName = Console.ReadLine();
             Console.WriteLine("Welcome " + characterName + ", to the world of Eorza!" );
+            Console.WriteLine("\nPlease press enter to continue...");
+            Console.ReadKey();
+            Console.Clear();
         }
         static void Dialog(string message, string color){
 
