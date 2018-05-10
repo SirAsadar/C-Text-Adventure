@@ -13,14 +13,17 @@ namespace Adventure{
 \_/\_/(____/ \__/ (____)\_)__) (__) \____/(__\_)(____)      (__)\_)__)      (____)\__/(__\_)(____)\_/\_/
                                                                                                                                 
         ";
-            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine(title);
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("\nWelcome to the world of Eorza! A land full of discovery and turmoil. You're stranded in the woods miles from any sort of civilization and all you have are the supplies in your pack. Survive. Good luck.");
             Console.ResetColor();
             NameCharacter();
             }
         public static void NameCharacter(){
+            Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("Enter your name:");
+            Console.ResetColor();
             characterName = Console.ReadLine();
             Console.WriteLine("Welcome " + characterName + ", to the world of Eorza!" );
         }
